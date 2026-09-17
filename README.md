@@ -2,7 +2,7 @@
 
 *As of September 17, 2026. Public summary from this repo; most product code remains private.*
 
-**Contact**: mike@peopleanalyst.com · 469.406.4699 · Pittsburgh, PA · linkedin.com/in/michaelcwest · peopleanalyst.com
+**Contact**: mike@peopleanalyst.com · Pittsburgh, PA · linkedin.com/in/michaelcwest · peopleanalyst.com
 
 ---
 
