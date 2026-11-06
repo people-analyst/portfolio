@@ -49,7 +49,7 @@ CanonicAI now has an explicit two-part identity: corpus-to-canonical-data engine
 ### 7) Writer's Desk Publications
 **Domains:** `peopleanalyst.com` · `vela.study` · `penwright.ink` · `namesake.baby`
 
-The writing stack is now explicit: PeopleAnalyst as portfolio/editorial hub, Vela as adaptive magazine (not persona-shaped), Penwright as full writers'-desk shell, and Namesake as a bounded decision product. The key change since May is design discipline around voice, role, and evidence boundaries: each surface has a declared purpose, and writing systems are treated as product infrastructure rather than side content.
+The writing stack includes PeopleAnalyst, a learning and resources site for people analytics professionals; Vela, an adaptive magazine; Penwright, a writers' desk; and Namesake, a bounded decision product. bicycle.llc is the portfolio hub. The key change since May is design discipline around voice, role, and evidence boundaries: each surface has a declared purpose, and writing systems are treated as product infrastructure rather than side content.
 
 ### 8) DevPlane (Operator Cockpit)
 **Domains:** `devplane.dev` · `docs.devplane.app`
