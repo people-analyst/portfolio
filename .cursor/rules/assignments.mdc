@@ -1,0 +1,7 @@
+---
+description: Where this repo's assignments are
+alwaysApply: true
+---
+<!-- devplane-assignments:v1 -->
+## Your assignments (read first)
+The correct list for this repo is NOT a local file. Call the devplane-work MCP tool `assignments_for_repo`, or run `dpa` (reads GitHub origin/main and states its freshness and what it could not read). Cite the FULL card id (for example DP-2409-beacon35) in commits; a bare number can match two cards.
